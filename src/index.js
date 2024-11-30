@@ -1,9 +1,5 @@
-import { React, ReactDOM } from "@moojor224/jstools";
-import App from "./components/app";
+import React from "react";
+import ReactDOM from "react-dom/client";
 
-ReactDOM.createRoot(document.getElementById("root")).render(<App>
-    <main>
-        
-    </main>
-</App>);
+ReactDOM.createRoot(document.getElementById("root")).render(<main>Hello World!</main>);
 console.log("index.js loaded");
