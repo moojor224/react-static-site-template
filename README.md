@@ -1,0 +1,1 @@
+a template for compiling a react jsx website into a static github pages site
